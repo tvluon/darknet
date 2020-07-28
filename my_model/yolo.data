@@ -1,5 +1,5 @@
 classes = 1
-train = data/train.txt
-valid = data/val.txt
-names = data/yolo.names
-backup = backup
+train = my_model/train.txt
+valid = my_model/val.txt
+names = my_model/yolo.names
+backup = my_model/backup
